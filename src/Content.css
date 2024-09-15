@@ -1,0 +1,31 @@
+.Content {
+    background-color: rgb(204, 20, 20);
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.nav {
+    background-color: yellow;
+    width: 30%; 
+}
+.contentData {
+    background-color: white;
+    width: auto;
+    
+}
+.contentItem {
+    background-color: #eeeeee;
+    border-radius: 10px;
+    margin: 10px 10px 10px 10px;
+    padding: 12px;
+    border: 1px solid #eeeeee;
+}
+.title {
+    font-weight: bold;
+    font-size: larger;
+}
+.body {
+    text-align: justify;
+}
